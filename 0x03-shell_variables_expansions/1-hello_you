@@ -1,2 +1,2 @@
-#!/hin/ash
+#!/bin/bash
 echo hello $USER
